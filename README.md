@@ -4,9 +4,10 @@ This is a joke Python program, a calculator that doesn't use * or **, just + and
 # How to use
 Just copy paste the code in a file and run it with Python
 
-# What's special about this one?
+### What's special about this one?
 this calculator only use builtin + and -
-multiplication and exponentiation 
+multiplication and exponentiation are made manually
+division is not available.
 
-# Does it have Division?
-No. Division is usless!
+### License Summary
+do whatever you want with it! no real limitations.
